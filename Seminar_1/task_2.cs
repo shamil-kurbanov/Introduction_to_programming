@@ -9,7 +9,7 @@ namespace Seminar_1
 {
     class task_2
     {
-        public static void FunctionMax( int a, int b)
+        public static void FunctionGreaterOrLess( int a, int b)
         {
             WriteLine();
             WriteLine("# <Task 2> #");
