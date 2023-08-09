@@ -2,57 +2,60 @@
 using static System.Console;
 using System;
 
-/*
- * Write a program that takes two numbers as input and outputs which number is greater and which is less.
-*/
 namespace Seminar_1
 {
-    class task_4
+    class Task_4
     {
-        public static void FunctionMax( int a, int b, int c)
+        public static void Main()
         {
-            WriteLine();
             WriteLine("# <Task 4> #");
-            WriteLine("Write a program that takes tree numbers as input and outputs which number is max");
+            WriteLine("Write a program that takes three numbers as input and outputs which number is max");
             WriteLine("-----------------------------------------");
-            //input first number
-            Write("Input first number: ");
-            a = Convert.ToInt32(ReadLine());
-            //input second number
-            Write("Input second number: ");
-            b = Convert.ToInt32(ReadLine());
 
-            //input third number
-            Write("Input third number: ");
-            c = Convert.ToInt32(ReadLine());
+            int a = PromptForNumber("Input first number: ");
+            int b = PromptForNumber("Input second number: ");
+            int c = PromptForNumber("Input third number: ");
 
-            //check which number is max
-            if (a > b && a > c)
-            {
-                WriteLine("First number is max");
-                WriteLine("--> {0} > {1} and {0} > {2}", a, b, c);
-            }
-            else if (b > a && b > c)
-            {
-                WriteLine("Second number is max");
-                WriteLine("--> {0} > {1} and {0} > {2}", b, a, c);
-            }
-            else if (c > a && c > b)
-            {
-                WriteLine("Third number is max");
-                WriteLine("--> {0} > {1} and {0} > {2}", c, a, b);
-            }
-            else
+            if (a == b && b == c)
             {
                 WriteLine("Numbers are equal");
                 WriteLine("--> {0} = {1} = {2}", a, b, c);
             }
+            else
+            {
+                int max = FindMax(a, b, c);
+                WriteLine("Max number is {0}", max);
+            }
 
             WriteLine();
             WriteLine("-----------------------------------------");
-            WriteLine();
+        }
+
+private static int PromptForNumber(string prompt)
+{
+    while (true)
+    {
+        try
+        {
+            Write(prompt);
+            return Convert.ToInt32(ReadLine());
+        }
+        catch (FormatException)
+        {
+            WriteLine("Invalid input. Please enter a number.");
+        }
+    }
+}
 
 
+        private static int FindMax(params int[] numbers)
+        {
+            int max = numbers[0];
+            for (int i = 1; i < numbers.Length; i++)
+            {
+                if (numbers[i] > max) max = numbers[i];
+            }
+            return max;
         }
     }
 }
