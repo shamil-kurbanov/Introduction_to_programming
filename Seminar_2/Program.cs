@@ -5,6 +5,7 @@ using System;
 using static System.Console;
 using static Seminar_2.Task_10_GetSecondDigit;
 using static Seminar_2.Task_13_GetThirdDigit;
+using static Seminar_2.Task_14_CheckIfHoliday;
 
 
 namespace Seminar_2
@@ -33,7 +34,8 @@ namespace Seminar_2
             }
 
             GetThirdDigit(0);
-
+            CheckIfHoliday(0);
+            
         }
     }
 }
