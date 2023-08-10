@@ -1,5 +1,5 @@
 ﻿using static Seminar_1.task_2;	
-using static Seminar_1.task_4;
+using static Seminar_1.task_4_1;
 using static Seminar_1.task_6;
 using static Seminar_1.task_8;
 

@@ -34,15 +34,9 @@ namespace Seminar_1
                 }
             }
 
-
-
-
-
             WriteLine();
             WriteLine("-----------------------------------------");
             WriteLine();
-
-
         }
     }
 }
