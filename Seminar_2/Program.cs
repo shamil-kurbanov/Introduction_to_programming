@@ -4,6 +4,7 @@
 using System;
 using static System.Console;
 using static Seminar_2.Task_10_GetSecondDigit;
+using static Seminar_2.Task_13_GetThirdDigit;
 
 
 namespace Seminar_2
@@ -30,6 +31,8 @@ namespace Seminar_2
                     WriteLine("Invalid input!");
                     break;
             }
+
+            GetThirdDigit(0);
 
         }
     }
