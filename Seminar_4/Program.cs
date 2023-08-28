@@ -8,5 +8,6 @@ namespace Seminar_4;
         static void Main(string[] args)
         {
             Task_25.FunctionAPowerOfB();
+            Task_27.FunctionSumOfDigits();
         }
     }
