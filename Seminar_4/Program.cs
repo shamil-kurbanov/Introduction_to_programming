@@ -9,5 +9,6 @@ namespace Seminar_4;
         {
             Task_25.FunctionAPowerOfB();
             Task_27.FunctionSumOfDigits();
+            Task_29.FunctionArray();
         }
     }
