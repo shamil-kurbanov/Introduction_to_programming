@@ -10,6 +10,10 @@ namespace Seminar_5
         public static void Main(string[] args)
         {
             Task_34.FunctionEvenNumbersInArray();
+            WriteLine("---------------------------------");
+            Task_36.FunctionSumOfElemInOddPos();
+            WriteLine("---------------------------------");
+            Task_38.FuncDiffBetweenMaxAndMinInArray();
         }
     }
 }
