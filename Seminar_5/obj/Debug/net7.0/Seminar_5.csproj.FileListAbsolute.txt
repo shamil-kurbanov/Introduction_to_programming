@@ -1,0 +1,14 @@
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\bin\Debug\net7.0\Seminar_5.exe
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\bin\Debug\net7.0\Seminar_5.deps.json
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\bin\Debug\net7.0\Seminar_5.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\bin\Debug\net7.0\Seminar_5.dll
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\bin\Debug\net7.0\Seminar_5.pdb
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.dll
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\refint\Seminar_5.dll
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.pdb
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\Seminar_5.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\gb\Introduction_to_programming\Seminar_5\obj\Debug\net7.0\ref\Seminar_5.dll
