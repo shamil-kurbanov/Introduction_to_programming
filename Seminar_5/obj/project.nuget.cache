@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U0pdC/UArgQ4WBK95S3RAox+oW86/UB9pcaedoa+oRVk2xzn0+2PpssKhnmk9PTTeHP01kJ1kDCeX8WT3wHrFA==",
+  "dgSpecHash": "OMBoHiY18L3t1tKiBzvxK8sqZEnhC76xeY43dRH5JNRPQXIbnz1epl3iuS4WAPWP+3vnz0BGJUygB2bYxpnhWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kurba\\Documents\\GitHub\\gb\\Introduction_to_programming\\Seminar_5\\Seminar_5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Shamil\\Documents\\GitHub\\Introduction_to_programming\\Seminar_5\\Seminar_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\Shamil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

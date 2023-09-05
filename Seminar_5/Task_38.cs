@@ -23,14 +23,14 @@ public class Task_38
             // Filling an array with random real numbers
             for(int i = 0; i < array.Length; i++){
                 array[i] = random.NextDouble() * 100;
-                if(i == 0){
-                    max = array[i];
-                    min = array[i];
+                if(i == 0){ // if the first element of an array is the maximum and minimum element
+                    max = array[i]; // Maximum element of an array
+                    min = array[i]; // Minimum element of an array
                 }
-                if(array[i] > max){
+                if(array[i] > max){ //if the current element is greater than the maximum element
                     max = array[i]; // Maximum element of an array
                 }
-                if(array[i] < min){
+                if(array[i] < min){  //if the current element is less than the minimum element
                     min = array[i]; // Minimum element of an array
                 }
             }
@@ -38,8 +38,8 @@ public class Task_38
             // Displaying an array
             WriteLine("Array: ");
             Write("[ ");
-            for(int i = 0; i < array.Length; i++){
-                Write($"{array[i]:F2} ");
+            for(int i = 0; i < array.Length; i++){ //if the current element is greater than the maximum element
+                Write($"{array[i]:F2} "); // Displaying an array element with two decimal places
             }
             Write("]");
 
