@@ -1,0 +1,15 @@
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.AssemblyInfoInputs.cache
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.AssemblyInfo.cs
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.csproj.CoreCompileInputs.cache
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.sourcelink.json
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\bin\Debug\net8.0\Seminar_9.exe
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\bin\Debug\net8.0\Seminar_9.deps.json
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\bin\Debug\net8.0\Seminar_9.runtimeconfig.json
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\bin\Debug\net8.0\Seminar_9.dll
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\bin\Debug\net8.0\Seminar_9.pdb
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.dll
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\refint\Seminar_9.dll
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.pdb
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\Seminar_9.genruntimeconfig.cache
+C:\Users\Shamil\Documents\GitHub\Introduction_to_programming\Seminar_9\obj\Debug\net8.0\ref\Seminar_9.dll
