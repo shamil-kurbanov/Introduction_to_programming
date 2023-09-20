@@ -2,6 +2,7 @@
 using static System.Console;
 using static Seminar_8.Task_58;
 using static Seminar_8.Task_59;
+using static Seminar_8.Task_62;
 
 class Program
 {
@@ -10,5 +11,7 @@ class Program
         FuctionMatrixMultiplication();
         WriteLine("--------------------");
         FuctionArrayModification();
+        WriteLine("--------------------");
+        FuctionArraySpiral();
     }
 }
