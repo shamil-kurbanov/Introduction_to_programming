@@ -15,7 +15,7 @@ namespace Seminar_9;
 public class Task_64
 {
 //FuctionPrintNaturalNumbersFromNtoOne
-    public static void prompt() //promp
+    public static void promptForTask64()
     {
         Write("Enter N: ");
         int n = int.Parse(ReadLine());

@@ -8,7 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        prompt();
+        promptForTask64();
         WriteLine("--------------------");
 
         WriteLine("--------------------");
