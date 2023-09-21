@@ -14,12 +14,11 @@ namespace Seminar_9;
 
 public class Task_64
 {
-//FuctionPrintNaturalNumbersFromNtoOne
     public static void promptForTask64()
     {
         Write("Enter N: ");
         int n = int.Parse(ReadLine());
-
+        
         if (n >= 1)
         {
             Write("Natural numbers from " + n + " to 1: ");
