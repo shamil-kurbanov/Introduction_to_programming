@@ -2,7 +2,7 @@
 using static System.Console;
 using static Seminar_9.Task_64;
 using static Seminar_9.Task_66;
-//using static Seminar_9.Task_68;
+using static Seminar_9.Task_68;
 
 class Program
 {
@@ -11,7 +11,8 @@ class Program
         promptForTask64();
         WriteLine("--------------------");
         promptForTask66();
-
+        WriteLine("--------------------");
+        promptForTask68();
         WriteLine("--------------------");
 
     }
